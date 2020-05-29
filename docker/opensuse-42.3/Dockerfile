@@ -1,4 +1,4 @@
-FROM opensuse:42.3
+FROM opensuse/leap:42.3
 
 # non-default docker proxy vars
 ARG ALL_PROXY
